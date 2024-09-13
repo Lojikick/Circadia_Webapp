@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "flask": "^0.2.10",
+    "matplotlib": "^1.0.0",
+    "numpy": "^0.0.1",
+    "yasa": "^0.0.1"
+  }
+}

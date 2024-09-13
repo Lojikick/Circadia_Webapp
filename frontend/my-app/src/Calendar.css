@@ -1,0 +1,26 @@
+.calendar {
+    font-family: Arial, sans-serif;
+    width: 300px;
+  }
+  
+  .calendar-entry {
+    background-color: #f3f3f3;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .calendar-entry p {
+    margin: 0;
+  }
+  
+  .calendar-entry p:first-child {
+    font-weight: bold;
+    color: #4285f4;
+  }
+  
+  .calendar-entry p:last-child {
+    color: #666;
+  }
+  
